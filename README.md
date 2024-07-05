@@ -1,6 +1,4 @@
 Project Video Link Task 1: https://drive.google.com/file/d/1U1e7daZ_mipd-wNVTts4jOne0PqQYV3a/view?usp=sharing
-Project Video Link Task 2: 
-
 
 ==================== Project Description ====================
 
@@ -48,18 +46,3 @@ Your goal is to create a basic web application that allows users to sign up, log
 
 !https://miro.medium.com/v2/resize:fit:548/1*KEtWAhxgLOKU8Sd1np4Phg.png
 
-### **Task 2: Google Sign-In Authentication 🔍**
-
-**Objective:** Allow users to log in using their Google account.
-
-**Steps:**
-
-1. **Enable Google Sign-In:**
-    - In the Firebase Console, navigate to the Authentication section and enable Google Sign-In.
-2. **Create a Google Sign-In Button:**
-    - Add a button to your application for Google Sign-In.
-3. **Implement Google Sign-In Logic:**
-    - Use Firebase's `signInWithPopup` method with the Google provider to authenticate users.
-4. **Handle User Data:**
-    - After a successful sign-in, display the user's name and email.
-    - Implement a logout button to sign the user out.
